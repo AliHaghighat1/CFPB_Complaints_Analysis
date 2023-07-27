@@ -3,6 +3,7 @@
 
 This project aims to analyze financial product complaints, predict their outcomes, and uncover insights into consumer behavior and possible improvements for financial services.
 
+
 Table of Contents
 
 1. [Installation](#installation)
